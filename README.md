@@ -29,10 +29,10 @@ e.g
 `python -m pip install sklearn`
 
 Following packages need to be installed
-gensim 
-sklearn
-easygui
-nltk
-tika 
-pandas
-pathlib
+- gensim 
+- sklearn
+- easygui
+- nltk
+- tika 
+- pandas
+- pathlib
