@@ -2,13 +2,15 @@
 This application uses the Doc2Vec Model to find simillar PDF permit documents to ones selected by the user.
 
 ## Data
+
+### Input Data  
 The input data for this application is saved in the following folders as PDF files. You can add more PDF documents to these folders as you start using this application
 - boards_and_comissions
 - similarity_engine
 - business_licence
 - dog_licence
 
-
+### Processed Data
 The fieds extracted out of these PDF's are saved in the **raw_datafields** folder. The first column in each of these documents contain the pdf document name. The **script_for_saving_pdffields
 python script is used for extracting out these fields**
 
